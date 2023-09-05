@@ -1,2 +1,2 @@
 # FacebookLoginPage
-HTML and CSS project (unresponsive)
+HTML and CSS project (responsive)
